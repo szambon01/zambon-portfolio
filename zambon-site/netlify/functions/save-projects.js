@@ -54,9 +54,6 @@ exports.handler = async (event) => {
     }
 
     // If no projects provided, this was just a password check — return ok
-    if (!projects || !Array.isArray(projects)) {
-      return { statusCode: 200, headers: corsHeaders(), body: JSON.stringify({ ok: true }) };
-    }
 
     const {
       GITHUB_TOKEN: token,
