@@ -1,5 +1,9 @@
 [
   {
+    "_hero": true,
+    "videoUrl": "https://stevenzambon.com"
+  },
+  {
     "id": 1,
     "title": "TEST",
     "director": "Dir. Name",
