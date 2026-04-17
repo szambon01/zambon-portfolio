@@ -16,11 +16,11 @@
   {
     "id": 2,
     "title": "Project Title",
-    "director": "Dir. Name",
-    "year": "2025",
+    "director": "Dir. Ari Miller",
+    "year": "2026",
     "category": "music-video",
-    "videoUrl": "",
-    "thumb": "",
+    "videoUrl": "https://www.youtube.com/watch?v=SUo4nBM8qx4",
+    "thumb": "https://res.cloudinary.com/dpowi00un/image/upload/v1776463280/zambon-portfolio/izzx3sgets2jtabi8bp1.jpg",
     "bg": "radial-gradient(ellipse at 75% 40%, #0b1018 0%, #040608 80%)"
   },
   {
