@@ -5,7 +5,7 @@
   },
   {
     "id": 1,
-    "title": "How to with Luxe + Willow",
+    "title": "How-To with Luxe + Willow",
     "director": "Dir. Palmer Wells",
     "year": "2026",
     "category": "commercial",
@@ -15,7 +15,7 @@
   },
   {
     "id": 2,
-    "title": "Project Title",
+    "title": "Push Ups | Live on Formations",
     "director": "Dir. Ari Miller",
     "year": "2026",
     "category": "music-video",
@@ -25,12 +25,12 @@
   },
   {
     "id": 3,
-    "title": "Project Title",
-    "director": "Dir. Name",
-    "year": "2024",
+    "title": "Bedroom Ballerina by Sophia Mesa",
+    "director": "Dir. Palmer Wells",
+    "year": "2025",
     "category": "narrative",
-    "videoUrl": "",
-    "thumb": "",
+    "videoUrl": "https://www.youtube.com/watch?v=2UuX1FTRCNs",
+    "thumb": "https://res.cloudinary.com/dpowi00un/image/upload/v1776463494/zambon-portfolio/ehagh6qpv0nfof0snblc.jpg",
     "bg": "radial-gradient(ellipse at 50% 70%, #160c0a 0%, #060404 80%)"
   },
   {
