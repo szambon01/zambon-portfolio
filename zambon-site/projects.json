@@ -5,12 +5,12 @@
   },
   {
     "id": 1,
-    "title": "TEST",
-    "director": "Dir. Name",
-    "year": "2025",
+    "title": "How to with Luxe + Willow",
+    "director": "Dir. Palmer Wells",
+    "year": "2026",
     "category": "commercial",
-    "videoUrl": "",
-    "thumb": "",
+    "videoUrl": "https://vimeo.com/1161509489?fl=pl&fe=vl",
+    "thumb": "https://res.cloudinary.com/dpowi00un/image/upload/v1776463187/zambon-portfolio/b1tl1xnfyltmohjfzexr.jpg",
     "bg": "radial-gradient(ellipse at 30% 60%, #1c1408 0%, #060504 80%)"
   },
   {
